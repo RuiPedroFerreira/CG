@@ -1,0 +1,18 @@
+﻿  Block.cpp
+  Game.cpp
+  projeto_final_CG.cpp
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\includes\text.cpp(4,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\includes\text.cpp(4,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\includes\text.cpp(4,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\includes\text.cpp(5,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\includes\text.cpp(5,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(257,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(257,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(257,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(521,67): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(521,67): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(522,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(522,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rui_f\source\repos\projeto_final_CG\projeto_final_CG\projeto_final_CG.cpp(522,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  projeto_final_CG.vcxproj -> C:\Users\rui_f\source\repos\projeto_final_CG\Debug\projeto_final_CG.exe
